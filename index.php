@@ -17,7 +17,7 @@
           <p>My name is Ho Ngoc Thao Trang.
           <br>Chang is also one way to call me.
           <br>I am an IT student at HCMUS</p>
-          <a class="mButton" href="boutme.html">more info >></a>
+          <a class="mButton" href="about.php">more info >></a>
         </div>
         <div class="card">
           <img src="images/resume.jpg" alt="">
@@ -26,7 +26,7 @@
           <p>My name is Ho Ngoc Thao Trang.
             <br>Chang is also one way to call me.
           <br>I am an IT student at HCMUS</p>
-          <a class="mButton" href="resume.html">more info >></a>
+          <a class="mButton" href="resume.php">more info >></a>
         </div>
       </div> <!--End of detail container-->
 <?php
