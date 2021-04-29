@@ -14,7 +14,7 @@
               <img src="images/aboutme2.jpg" alt="">
             </div>
             <div class="col-2">
-              <h3>A film camera lover</h3>
+              <h3>Hmm... I am a student</h3>
             </div>
         </div>
         <div class="row-3">
